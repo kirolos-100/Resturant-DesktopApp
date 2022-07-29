@@ -1,0 +1,29 @@
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csprojAssemblyReference.cache
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.manifest
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.application
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe.manifest
+C:\Users\louis\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.application
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.manifest
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.application
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.AssemblyReference.cache
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.SuggestedBindingRedirects.cache
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe.manifest
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.application
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+E:\Coding\C#\Desktop App\ResturantDesktopApp-main\ResturantDesktopApp-main\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="FastFoodRestaurant.exe" version="1.0.0.3" publicKeyToken="577be9aa0e085cc4" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FastFoodRestaurant" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FastFoodRestaurant.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FastFoodRestaurant.exe" size="349112">
+      <assemblyIdentity name="FastFoodRestaurant" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ooEPMg6Y90hYumwgYyItzsMpRgV64BdwHFEosRw+atQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FastFoodRestaurant.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=louis-HP\louis" issuerKeyHash="749bd80cae6b269c9b6de8a7b4d13694265832a6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>L+Dhea+IolTJ5IkvJVedabubieFZIASklM8maMHAgK4=</DigestValue></Reference></SignedInfo><SignatureValue>b6k6AV3twP/hzXJADBROA/mzonjB1SI+aTQBBByvhunOiV26wmzeEaoU2+jW2eejFfP5errbDz9j5fOvnccsTH+4UAdJC7joN8SQBWrxCd4axE517yFXkRsitsazLZduxQ/8bazOdroZ4ceHwISqBCAt9XZmPCwX8BssoRRi/GI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>x/YQ/s0VqrAgK1SGwY5M+j4+oG0C3UVGukiyGmGeQDt3CZjGfR+Y4pdpnF8wiMNQExyrdo8pKLpCR3UzWyKASkzpbxpttvO5FiC7YTzCf3w8VPr9fckj6p2CCszJQ0Cp956JmfRvRsmGa9AhPkNNzBhoUbo4DA042ZyD99E3bcE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ae80c0c16826cf94a4042059e1899bbb699d57252f89e4c954a288af79e1e02f" Description="" Url=""><as:assemblyIdentity name="FastFoodRestaurant.exe" version="1.0.0.3" publicKeyToken="577be9aa0e085cc4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=louis-HP\louis</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>zPeA7Tr5MDkNyRN5bUxyzBBPAX4tTqbzYRUv73APYQM=</DigestValue></Reference></SignedInfo><SignatureValue>fJuqOAcIZmZMpOXBdFdAL/oTCMDTrbz1syfa2zVb7Q6Xy5+mHgGQ69BEy/8jynmkfLTD7kRJOWcpTDDMgg71koMwGQqmeSTr9LX357lHOt4qH/uUqNk0O5kwcinkQCzQb+IhMEpUmEGIWX6SOgNtyP1OD0KsRwiMLaptuyObJ2c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>x/YQ/s0VqrAgK1SGwY5M+j4+oG0C3UVGukiyGmGeQDt3CZjGfR+Y4pdpnF8wiMNQExyrdo8pKLpCR3UzWyKASkzpbxpttvO5FiC7YTzCf3w8VPr9fckj6p2CCszJQ0Cp956JmfRvRsmGa9AhPkNNzBhoUbo4DA042ZyD99E3bcE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQHiAPag/v/5pOH40xxx1RnzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAbABvAHUAaQBzAC0ASABQAFwAbABvAHUAaQBzMB4XDTIxMDcyODE1NDc1MVoXDTIyMDcyODIxNDc1MVowJzElMCMGA1UEAx4cAGwAbwB1AGkAcwAtAEgAUABcAGwAbwB1AGkAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAx/YQ/s0VqrAgK1SGwY5M+j4+oG0C3UVGukiyGmGeQDt3CZjGfR+Y4pdpnF8wiMNQExyrdo8pKLpCR3UzWyKASkzpbxpttvO5FiC7YTzCf3w8VPr9fckj6p2CCszJQ0Cp956JmfRvRsmGa9AhPkNNzBhoUbo4DA042ZyD99E3bcECAwEAATANBgkqhkiG9w0BAQsFAAOBgQAixZLH7VCYSfmGGY2l/TyiyjXL4DXJd9j2DCpFk7eDYbnXySb0u3vfxB+Xew8Yp6W4c5UTYnTdcaenHp7CaKhXT18XtHSn/bVzVHqG6mKXCcThfnDDhAGFu9OWGa1vAHqH+Nvh7HDraqoUE1o+cltkiJIkpJO8II2pBTsIyU16vg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
